@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Love+Light&display=swap');
+
+body{
+  text-align:center;
+  background:#998c8c;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+  font-size:30px;
+  color:rgb(238, 238, 105);
+  font-weight:bold;
+  margin-bottom: 0;
+  line-height:40px;
+  width:100%;
+}
+img{
+  margin-top: 100px;
+  margin-bottom: 10px;
+}
+div{
+  font-size:30px;
+  color:rgb(238, 238, 105);
+}

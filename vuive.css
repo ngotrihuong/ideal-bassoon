@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    background: rgb(194 206 219);
+    background: linear-gradient(205deg, rgb(238 233 245) 0%, rgb(30 34 42) 100%);
+    background-size:100% 1000px;
+
+  }
+  
+  .para-container {
+    width: 500px;
+    height: 300px;
+    background: lightgray;
+    border: 10px solid black;
+  }
+  
+  .para-container p {
+    font-size: 12px;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    background-image: url("https://media0.giphy.com/media/TeBpzQZRaBIC4/giphy.gif?cid=ecf05e47t8reh80bpi8zmyp3fimer4l5rxah7ph69vhup4ya&rid=giphy.gif&ct=s");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center top;
+    font-weight: bolder;
+    font-family: helvetica;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
